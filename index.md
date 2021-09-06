@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Tribute Page</h1>
+    <h1>Michael Jordan</h1>
+    <img src="https://media.vogue.es/photos/5ea1dfcae7a75f000938445e/2:3/w_1920,c_limit/GettyImages-52298709.jpg" alt="MJ" class="center">
+    <p><a href="https://en.wikipedia.org/wiki/Michael_Jordan">Who was MJ?</a></p>
+  <p>Michael Jordan is a former professional American basketball player, Olympic athlete, businessperson and actor. Considered one of the best basketball players ever, he dominated the sport from the mid-1980s to the late 1990s. 
 
-You can use the [editor on GitHub](https://github.com/RogerOsalde/RogerOsalde.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Jordan led the Chicago Bulls to six National Basketball Association championships and earned the NBA's Most Valuable Player Award five times. With five regular-season MVPs and three All-Star MVPs, Jordan became the most decorated player in the NBA.</p>
+  
+  <p>Chicago Bulls
+Jordan began his professional basketball career when he was drafted by the Chicago Bulls in 1984. He was the third overall pick, behind Hakeem Olajuwon, who was selected first by the Houston Rockets, and Sam Bowie, taken by the Portland Trail Blazers; the draft also featured legendary players John Stockton and Charles Barkley.
+  
+ Jordan soon proved himself on the court. He helped the team make the playoffs and scored an average of 28.2 points per game that season. For his efforts, Jordan received the NBA Rookie of the Year Award and was selected for the All-Star Game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+...
+  </p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RogerOsalde/RogerOsalde.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+</body>
+</html>
