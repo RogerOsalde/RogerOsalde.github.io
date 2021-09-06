@@ -14,8 +14,8 @@
 
 Jordan led the Chicago Bulls to six National Basketball Association championships and earned the NBA's Most Valuable Player Award five times. With five regular-season MVPs and three All-Star MVPs, Jordan became the most decorated player in the NBA.</p>
   
-  <p>Chicago Bulls
-Jordan began his professional basketball career when he was drafted by the Chicago Bulls in 1984. He was the third overall pick, behind Hakeem Olajuwon, who was selected first by the Houston Rockets, and Sam Bowie, taken by the Portland Trail Blazers; the draft also featured legendary players John Stockton and Charles Barkley.
+    <h2>Chicago Bulls</h2>
+  <p>Jordan began his professional basketball career when he was drafted by the Chicago Bulls in 1984. He was the third overall pick, behind Hakeem Olajuwon, who was selected first by the Houston Rockets, and Sam Bowie, taken by the Portland Trail Blazers; the draft also featured legendary players John Stockton and Charles Barkley.
   
  Jordan soon proved himself on the court. He helped the team make the playoffs and scored an average of 28.2 points per game that season. For his efforts, Jordan received the NBA Rookie of the Year Award and was selected for the All-Star Game.
 
